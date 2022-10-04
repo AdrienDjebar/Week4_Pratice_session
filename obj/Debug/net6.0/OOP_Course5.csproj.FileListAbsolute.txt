@@ -1,0 +1,15 @@
+C:\Users\cryte\OneDrive\Documents\Cours Irlande\C#\OOP_Course5\obj\Debug\net6.0\OOP_Course5.csproj.AssemblyReference.cache
+C:\Users\cryte\OneDrive\Documents\Cours Irlande\C#\OOP_Course5\obj\Debug\net6.0\OOP_Course5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cryte\OneDrive\Documents\Cours Irlande\C#\OOP_Course5\obj\Debug\net6.0\OOP_Course5.AssemblyInfoInputs.cache
+C:\Users\cryte\OneDrive\Documents\Cours Irlande\C#\OOP_Course5\obj\Debug\net6.0\OOP_Course5.AssemblyInfo.cs
+C:\Users\cryte\OneDrive\Documents\Cours Irlande\C#\OOP_Course5\obj\Debug\net6.0\OOP_Course5.csproj.CoreCompileInputs.cache
+C:\Users\cryte\OneDrive\Documents\Cours Irlande\C#\OOP_Course5\bin\Debug\net6.0\OOP_Course5.exe
+C:\Users\cryte\OneDrive\Documents\Cours Irlande\C#\OOP_Course5\bin\Debug\net6.0\OOP_Course5.deps.json
+C:\Users\cryte\OneDrive\Documents\Cours Irlande\C#\OOP_Course5\bin\Debug\net6.0\OOP_Course5.runtimeconfig.json
+C:\Users\cryte\OneDrive\Documents\Cours Irlande\C#\OOP_Course5\bin\Debug\net6.0\OOP_Course5.dll
+C:\Users\cryte\OneDrive\Documents\Cours Irlande\C#\OOP_Course5\bin\Debug\net6.0\OOP_Course5.pdb
+C:\Users\cryte\OneDrive\Documents\Cours Irlande\C#\OOP_Course5\obj\Debug\net6.0\OOP_Course5.dll
+C:\Users\cryte\OneDrive\Documents\Cours Irlande\C#\OOP_Course5\obj\Debug\net6.0\refint\OOP_Course5.dll
+C:\Users\cryte\OneDrive\Documents\Cours Irlande\C#\OOP_Course5\obj\Debug\net6.0\OOP_Course5.pdb
+C:\Users\cryte\OneDrive\Documents\Cours Irlande\C#\OOP_Course5\obj\Debug\net6.0\OOP_Course5.genruntimeconfig.cache
+C:\Users\cryte\OneDrive\Documents\Cours Irlande\C#\OOP_Course5\obj\Debug\net6.0\ref\OOP_Course5.dll
